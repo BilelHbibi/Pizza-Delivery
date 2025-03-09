@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Pizza-Delivery/static/css/main.02166abc.chunk.css",
+    "main.js": "/Pizza-Delivery/static/js/main.355c1d4f.chunk.js",
+    "main.js.map": "/Pizza-Delivery/static/js/main.355c1d4f.chunk.js.map",
+    "runtime-main.js": "/Pizza-Delivery/static/js/runtime-main.f4f46d8a.js",
+    "runtime-main.js.map": "/Pizza-Delivery/static/js/runtime-main.f4f46d8a.js.map",
+    "static/css/2.dcf82037.chunk.css": "/Pizza-Delivery/static/css/2.dcf82037.chunk.css",
+    "static/js/2.480f927b.chunk.js": "/Pizza-Delivery/static/js/2.480f927b.chunk.js",
+    "static/js/2.480f927b.chunk.js.map": "/Pizza-Delivery/static/js/2.480f927b.chunk.js.map",
+    "index.html": "/Pizza-Delivery/index.html",
+    "static/css/2.dcf82037.chunk.css.map": "/Pizza-Delivery/static/css/2.dcf82037.chunk.css.map",
+    "static/css/main.02166abc.chunk.css.map": "/Pizza-Delivery/static/css/main.02166abc.chunk.css.map",
+    "static/js/2.480f927b.chunk.js.LICENSE.txt": "/Pizza-Delivery/static/js/2.480f927b.chunk.js.LICENSE.txt",
+    "static/media/delivery-guy.c0194ba7.png": "/Pizza-Delivery/static/media/delivery-guy.c0194ba7.png",
+    "static/media/product_2.1.f1538554.jpg": "/Pizza-Delivery/static/media/product_2.1.f1538554.jpg",
+    "static/media/product_2.2.4967c9cb.jpg": "/Pizza-Delivery/static/media/product_2.2.4967c9cb.jpg",
+    "static/media/product_2.3.3914f9eb.jpg": "/Pizza-Delivery/static/media/product_2.3.3914f9eb.jpg",
+    "static/media/product_3.1.9c207cdf.jpg": "/Pizza-Delivery/static/media/product_3.1.9c207cdf.jpg",
+    "static/media/product_3.2.ebcb16b5.jpg": "/Pizza-Delivery/static/media/product_3.2.ebcb16b5.jpg",
+    "static/media/product_3.3.f482f459.jpg": "/Pizza-Delivery/static/media/product_3.3.f482f459.jpg",
+    "static/media/product_4.1.3c8ecc49.jpg": "/Pizza-Delivery/static/media/product_4.1.3c8ecc49.jpg",
+    "static/media/product_4.2.e82e43e0.jpg": "/Pizza-Delivery/static/media/product_4.2.e82e43e0.jpg",
+    "static/media/product_4.3.2df1cebb.png": "/Pizza-Delivery/static/media/product_4.3.2df1cebb.png",
+    "static/media/remixicon.css": "/Pizza-Delivery/static/media/remixicon.f2616f59.ttf",
+    "static/media/res-logo.2f9021c4.png": "/Pizza-Delivery/static/media/res-logo.2f9021c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f46d8a.js",
+    "static/css/2.dcf82037.chunk.css",
+    "static/js/2.480f927b.chunk.js",
+    "static/css/main.02166abc.chunk.css",
+    "static/js/main.355c1d4f.chunk.js"
+  ]
+}
