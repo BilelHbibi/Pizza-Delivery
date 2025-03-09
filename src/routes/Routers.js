@@ -10,7 +10,7 @@ import Checkout from "../pages/Checkout";
 const Routers = () => {
   return (
     <Routes>
-    <Route path="/My-Pizza" element={<Home />} />
+      <Route path="/Pizza-Delivery" element={<Home />} />
       <Route path="/" element={<Navigate to="/home" />} />
       <Route path="/home" element={<Home />} />
       <Route path="/pizzas" element={<Pizzas />} />
