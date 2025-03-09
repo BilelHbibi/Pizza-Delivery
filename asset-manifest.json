@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pizza-Delivery/static/css/main.02166abc.chunk.css",
-    "main.js": "/Pizza-Delivery/static/js/main.355c1d4f.chunk.js",
-    "main.js.map": "/Pizza-Delivery/static/js/main.355c1d4f.chunk.js.map",
+    "main.js": "/Pizza-Delivery/static/js/main.aa1e32c9.chunk.js",
+    "main.js.map": "/Pizza-Delivery/static/js/main.aa1e32c9.chunk.js.map",
     "runtime-main.js": "/Pizza-Delivery/static/js/runtime-main.f4f46d8a.js",
     "runtime-main.js.map": "/Pizza-Delivery/static/js/runtime-main.f4f46d8a.js.map",
     "static/css/2.dcf82037.chunk.css": "/Pizza-Delivery/static/css/2.dcf82037.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.dcf82037.chunk.css",
     "static/js/2.480f927b.chunk.js",
     "static/css/main.02166abc.chunk.css",
-    "static/js/main.355c1d4f.chunk.js"
+    "static/js/main.aa1e32c9.chunk.js"
   ]
 }
